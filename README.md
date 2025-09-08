@@ -1,4 +1,4 @@
-Desafio Parte 1 - Testes de API com Cypress
+Parte 1 - Testes de API com Cypress
 
 Este projeto contém a automação de testes de API utilizando Cypress.
 O objetivo é validar o fluxo de criação de usuário, autenticação, listagem de livros e associação de livros a um usuário na API pública DemoQA Book Store
@@ -66,5 +66,4 @@ Associação de 2 livros ao usuário.
 
 Validação final confirmando que o usuário possui os livros escolhidos.
 
-Autor: Kelvinho Play
-Data: 2025
+
