@@ -26,14 +26,14 @@ Adicionar livro 2 – Associa o livro com ISBN 9781593277574 ao usuário.
 
 Verificar usuário com os livros escolhidos – Confirma que os livros foram associados corretamente ao usuário.
 
-📂 Estrutura do projeto
-📁 projeto-desafio-parte1
- ┣ 📁 cypress
- ┃ ┗ 📁 e2e
- ┃   ┗ desafio_parte1.cy.js
- ┣ 📄 cypress.config.js
- ┣ 📄 package.json
- ┣ 📄 README.md
+Estrutura do projeto
+projeto-desafio-parte1
+ cypress
+ 📁 e2e
+ desafio_parte1.cy.js
+ cypress.config.js
+ package.json
+ README.md
 
 Como executar o projeto
 1. Clonar o repositório
