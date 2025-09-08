@@ -29,7 +29,7 @@ Verificar usuário com os livros escolhidos – Confirma que os livros foram ass
 Estrutura do projeto
 projeto-desafio-parte1
  cypress
- 📁 e2e
+ e2e
  desafio_parte1.cy.js
  cypress.config.js
  package.json
